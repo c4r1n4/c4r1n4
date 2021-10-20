@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @c4r1n4
+- 👋 Hi, I’m Carina
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning about chemistry
 - 📫 I'm from Manaus-Am
